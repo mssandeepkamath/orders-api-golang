@@ -29,3 +29,6 @@ Todo:
 
 >/api/delete-order/{id} : DELETE
 
+## Usage:
+
+>./main.exe
