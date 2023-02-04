@@ -6,26 +6,26 @@ Todo:
 
 ## End-points:
 
-### Test:
+### `Test`
 > /api : GET
 
-### Place order:
+### `Place order`
 
 > /api/add-order : POST
 
-### All orders
+### `All orders`
 
 > /api/orders : GET
 
-### Order by id
+### `Order by id`
 
 > /api/order/{id} : GET
 
-### Update order
+### `Update order`
 
 > /api/update-order : PUT
 
-### Delete order
+### `Delete order`
 
 >/api/delete-order/{id} : DELETE
 
